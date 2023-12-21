@@ -1,0 +1,70 @@
+{
+    "SEMESTRE I": [
+      "QIM100I",
+      "QIM120",
+      "QIM101L",
+      "MAT1000",
+      "VRA100C",
+      "VRA2000"
+    ],
+    "SEMESTRE II": [
+      "QIM100B",
+      "MAT1100",
+      "FIZ010C",
+      "FORMACIÓN GENERAL",
+      "FORMACIÓN GENERAL"
+    ],
+    "SEMESTRE III": [
+      "EYP2310",
+      "QIM102B",
+      "MAT1220",
+      "FIZ020C",
+      "FORMACIÓN GENERAL"
+    ],
+    "SEMESTRE IV": [
+      "QIM106B",
+      "QIM109B",
+      "QIM103A",
+      "FORMACIÓN TEOLÓGICA",
+      "FORMACIÓN GENERAL"
+    ],
+    "SEMESTRE V": [
+      "QIM107B",
+      "QIM110A",
+      "QIM104A",
+      "QIM114B",
+      "FORMACIÓN GENERAL"
+    ],
+    "SEMESTRE VI": [
+      "QIM108A",
+      "QIM111A",
+      "QIM105B",
+      "QIM115",
+      "FORMACIÓN GENERAL"
+    ],
+    "SEMESTRE VII": [
+      "QIM117B",
+      "QIM118A",
+      "QIM300B",
+      "QIM116", 
+      "OPTATIVO"
+    ],
+    "SEMESTRE VIII": [
+      "QIM119A",
+      "OPTATIVO"
+    ],
+    "SEMESTRE IX": [
+        "QIM112A",
+        "QIM400",
+        "IIQ2133",
+        "IIQ213Q",
+        "OPTATIVO"
+    ],
+    "SEMESTRE X": [
+        "QIM510B",
+        "QIM450",
+        "QIM500",
+        "IIQ223Q",
+        "OPTATIVO"
+    ]
+  }
