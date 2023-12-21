@@ -1,0 +1,61 @@
+{
+  "SEMESTRE I": [
+    "IIC1103",
+    "MAT0007",
+    "MAT1107",
+    "MAT1207",
+    "FIL2001",
+    "VRA100C"
+  ],
+  "SEMESTRE II": [
+    "IIC2233",
+    "IMT2200",
+    "IMT2210",
+    "MAT1610",
+    "FORMACIÓN TEOLÓGICA",
+    "VRA2000"
+  ],
+  "SEMESTRE III": [
+    "IIC1253",
+    "IMT2220",
+    "IMT2230",
+    "IMT2240",
+    "ETI195",
+    "FORMACIÓN GENERAL"
+  ],
+  "SEMESTRE IV": [
+    "EYP1025",
+    "IIC2133",
+    "IIC2413",
+    "IMT2250",
+    "FORMACIÓN GENERAL"
+  ],
+  "SEMESTRE V": [
+    "EYP2114",
+    "IIC2613",
+    "IIC2440",
+    ["OPR", "FIS154D"],
+    "FORMACIÓN GENERAL"
+  ],
+  "SEMESTRE VI": [
+    "EYP210I",
+    "EYP230I",
+    "IIC2026",
+    "IIC2433",
+    "FORMACIÓN GENERAL"
+  ],
+  "SEMESTRE VII": [
+    "EYP211I",
+    "EYP280I",
+    "IMT2260",
+    ["OPR", "hay que corregir este"], 
+    "FORMACIÓN GENERAL"
+  ],
+  "SEMESTRE VIII": [
+    "IMT2270",
+    ["OPR", "hay que corregir este"],
+    ["OPR", "hay que corregir este"],
+    ["OPR", "hay que corregir este"],
+    "FORMACIÓN GENERAL"
+  ]
+}
