@@ -1,4 +1,5 @@
 {
+  "nodos": {
     "SEMESTRE I": [
       "QIM100I",
       "QIM120",
@@ -11,42 +12,42 @@
       "QIM100B",
       "MAT1100",
       "FIZ010C",
-      "FORMACIÓN GENERAL",
-      "FORMACIÓN GENERAL"
+      "FORMACI\u00d3N GENERAL",
+      "FORMACI\u00d3N GENERAL"
     ],
     "SEMESTRE III": [
       "EYP2310",
       "QIM102B",
       "MAT1220",
       "FIZ020C",
-      "FORMACIÓN GENERAL"
+      "FORMACI\u00d3N GENERAL"
     ],
     "SEMESTRE IV": [
       "QIM106B",
       "QIM109B",
       "QIM103A",
-      "FORMACIÓN TEOLÓGICA",
-      "FORMACIÓN GENERAL"
+      "FORMACI\u00d3N TEOL\u00d3GICA",
+      "FORMACI\u00d3N GENERAL"
     ],
     "SEMESTRE V": [
       "QIM107B",
       "QIM110A",
       "QIM104A",
       "QIM114B",
-      "FORMACIÓN GENERAL"
+      "FORMACI\u00d3N GENERAL"
     ],
     "SEMESTRE VI": [
       "QIM108A",
       "QIM111A",
       "QIM105B",
       "QIM115",
-      "FORMACIÓN GENERAL"
+      "FORMACI\u00d3N GENERAL"
     ],
     "SEMESTRE VII": [
       "QIM117B",
       "QIM118A",
       "QIM300B",
-      "QIM116", 
+      "QIM116",
       "OPTATIVO"
     ],
     "SEMESTRE VIII": [
@@ -54,17 +55,156 @@
       "OPTATIVO"
     ],
     "SEMESTRE IX": [
-        "QIM112A",
-        "QIM400",
-        "IIQ2133",
-        "IIQ213Q",
-        "OPTATIVO"
+      "QIM112A",
+      "QIM400",
+      "IIQ2133",
+      "IIQ213Q",
+      "OPTATIVO"
     ],
     "SEMESTRE X": [
-        "QIM510B",
-        "QIM450",
-        "QIM500",
-        "IIQ223Q",
-        "OPTATIVO"
+      "QIM510B",
+      "QIM450",
+      "QIM500",
+      "IIQ223Q",
+      "OPTATIVO"
     ]
-  }
+  },
+  "enlaces": [
+    {
+      "source": "QIM100I",
+      "target": "QIM100B"
+    },
+    {
+      "source": "QIM120",
+      "target": "QIM100B"
+    },
+    {
+      "source": "QIM101L",
+      "target": "QIM100B"
+    },
+    {
+      "source": "MAT1000",
+      "target": "MAT1100"
+    },
+    {
+      "source": "MAT1100",
+      "target": "EYP2310"
+    },
+    {
+      "source": "QIM100B",
+      "target": "QIM102B"
+    },
+    {
+      "source": "MAT1100",
+      "target": "MAT1220"
+    },
+    {
+      "source": "MAT1100",
+      "target": "MAT1220"
+    },
+    {
+      "source": "FIZ010C",
+      "target": "FIZ020C"
+    },
+    {
+      "source": "QIM100B",
+      "target": "QIM106B"
+    },
+    {
+      "source": "EYP2310",
+      "target": "QIM109B"
+    },
+    {
+      "source": "EYP2310",
+      "target": "QIM109B"
+    },
+    {
+      "source": "QIM100B",
+      "target": "QIM109B"
+    },
+    {
+      "source": "QIM102B",
+      "target": "QIM103A"
+    },
+    {
+      "source": "QIM106B",
+      "target": "QIM107B"
+    },
+    {
+      "source": "QIM109B",
+      "target": "QIM110A"
+    },
+    {
+      "source": "QIM103A",
+      "target": "QIM104A"
+    },
+    {
+      "source": "FIZ020C",
+      "target": "QIM114B"
+    },
+    {
+      "source": "QIM107B",
+      "target": "QIM108A"
+    },
+    {
+      "source": "QIM110A",
+      "target": "QIM111A"
+    },
+    {
+      "source": "QIM104A",
+      "target": "QIM105B"
+    },
+    {
+      "source": "QIM114B",
+      "target": "QIM115"
+    },
+    {
+      "source": "QIM103A",
+      "target": "QIM117B"
+    },
+    {
+      "source": "QIM110A",
+      "target": "QIM118A"
+    },
+    {
+      "source": "QIM108A",
+      "target": "QIM300B"
+    },
+    {
+      "source": "QIM111A",
+      "target": "QIM300B"
+    },
+    {
+      "source": "QIM105B",
+      "target": "QIM300B"
+    },
+    {
+      "source": "QIM115",
+      "target": "QIM300B"
+    },
+    {
+      "source": "QIM111A",
+      "target": "QIM112A"
+    },
+    {
+      "source": "QIM105B",
+      "target": "QIM400"
+    },
+    {
+      "source": "QIM115",
+      "target": "IIQ2133"
+    },
+    {
+      "source": "QIM115",
+      "target": "IIQ213Q"
+    },
+    {
+      "source": "QIM300B",
+      "target": "QIM510B"
+    },
+    {
+      "source": "QIM108A",
+      "target": "QIM500"
+    }
+  ]
+}
