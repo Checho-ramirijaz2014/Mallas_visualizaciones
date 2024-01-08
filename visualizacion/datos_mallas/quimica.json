@@ -207,5 +207,151 @@
       "source": "QIM108A",
       "target": "QIM500"
     }
+  ],
+  "info_ramos": [
+    {
+      "sigla": "QIM112A",
+      "nombre": "Qu\u00edmica Anal\u00edtica Aplicada"
+    },
+    {
+      "sigla": "QIM104A",
+      "nombre": "Laboratorio de Qu\u00edmica Org\u00e1nica"
+    },
+    {
+      "sigla": "QIM117B",
+      "nombre": "Bioqu\u00edmica"
+    },
+    {
+      "sigla": "QIM119A",
+      "nombre": "Tesis de Grado"
+    },
+    {
+      "sigla": "QIM107B",
+      "nombre": "Qu\u00edmica Inorg\u00e1nica II"
+    },
+    {
+      "sigla": "QIM510B",
+      "nombre": "Pr\u00e1ctica Profesional"
+    },
+    {
+      "sigla": "QIM115",
+      "nombre": "Quimica-Fisica II"
+    },
+    {
+      "sigla": "QIM114B",
+      "nombre": "Qu\u00edmica F\u00edsica I"
+    },
+    {
+      "sigla": "QIM105B",
+      "nombre": "S\u00edntesis Org\u00e1nica"
+    },
+    {
+      "sigla": "QIM500",
+      "nombre": "Qu\u00edmica Inorg\u00e1nica Aplicada"
+    },
+    {
+      "sigla": "QIM118A",
+      "nombre": "Electroqu\u00edmica"
+    },
+    {
+      "sigla": "QIM120",
+      "nombre": "Quimica en la Naturaleza y la Sociedad"
+    },
+    {
+      "sigla": "MAT1100",
+      "nombre": "C\u00e1lculo I"
+    },
+    {
+      "sigla": "QIM111A",
+      "nombre": "Qu\u00edmica Anal\u00edtica III"
+    },
+    {
+      "sigla": "IIQ213Q",
+      "nombre": "Operaciones Unitarias I"
+    },
+    {
+      "sigla": "QIM102B",
+      "nombre": "Qu\u00edmica Org\u00e1nica I"
+    },
+    {
+      "sigla": "MAT1000",
+      "nombre": "Prec\u00e1lculo"
+    },
+    {
+      "sigla": "QIM108A",
+      "nombre": "Qu\u00edmica Inorg\u00e1nica III"
+    },
+    {
+      "sigla": "MAT1220",
+      "nombre": "C\u00e1lculo II"
+    },
+    {
+      "sigla": "QIM400",
+      "nombre": "Qu\u00edmica Org\u00e1nica Aplicada"
+    },
+    {
+      "sigla": "QIM100B",
+      "nombre": "Qu\u00edmica General II"
+    },
+    {
+      "sigla": "VRA2000",
+      "nombre": "English Test Alte 2"
+    },
+    {
+      "sigla": "EYP2310",
+      "nombre": "Estadistica para Quimica y Farmacia"
+    },
+    {
+      "sigla": "QIM106B",
+      "nombre": "Qu\u00edmica Inorg\u00e1nica I"
+    },
+    {
+      "sigla": "QIM450",
+      "nombre": "Prevenci\u00f3n de Riesgos Profesionales"
+    },
+    {
+      "sigla": "QIM109B",
+      "nombre": "Qu\u00edmica Anal\u00edtica I"
+    },
+    {
+      "sigla": "VRA100C",
+      "nombre": "Examen de Comunicaci\u00f3n Escrita (Ece)"
+    },
+    {
+      "sigla": "FIL2001",
+      "nombre": "Filosof\u00eda: \u00bfPara Qu\u00e9?"
+    },
+    {
+      "sigla": "QIM116",
+      "nombre": "Quimica-Fisica III"
+    },
+    {
+      "sigla": "QIM100I",
+      "nombre": "Qu\u00edmica General"
+    },
+    {
+      "sigla": "QIM103A",
+      "nombre": "Qu\u00edmica Org\u00e1nica II"
+    },
+    {
+      "sigla": "QIM110A",
+      "nombre": "Qu\u00edmica Anal\u00edtica II"
+    },
+    {
+      "sigla": "FIZ020C",
+      "nombre": "Fisica II"
+    },
+    {
+      "sigla": "QIM300B",
+      "nombre": "Gesti\u00f3n y Manejo de Residuos"
+    },
+    {
+      "sigla": "QIM101L",
+      "nombre": "Laboratorio de Qu\u00edmica General"
+    },
+    {
+      "sigla": "IIQ2133",
+      "nombre": "Procesos Qu\u00edmicos"
+    }
   ]
 }
