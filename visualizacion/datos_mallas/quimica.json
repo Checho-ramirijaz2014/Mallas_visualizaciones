@@ -352,6 +352,10 @@
     {
       "sigla": "IIQ2133",
       "nombre": "Procesos Qu\u00edmicos"
+    },
+    {
+      "sigla": "FIZ010C",
+      "nombre": "Fisica I"
     }
   ]
 }
